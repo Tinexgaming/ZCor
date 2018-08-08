@@ -1,0 +1,2 @@
+# ZCor
+zcore bot
