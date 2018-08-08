@@ -17,7 +17,7 @@ const superagent = require('superagent');
 const sm = require('string-similarity');
 client.commands = new Discord.Collection();
 
-let prefix = 'z';
+let prefix = 'z#';
 
  client.on("ready", () => {
   console.log("ready");
